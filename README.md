@@ -3,7 +3,8 @@
 ##### 安装教程
 `git clone https://github.com/Pumnn1ayLee/PMLfrp-v1.0.git`  
 ##### 使用教程
-请先把正确的ip地址以及在内网穿透开放的本地端口先输入到HOME中再到Channels中勾选节点连接。    
+请先把正确的ip地址以及在内网穿透开放的本地端口先输入到HOME中再到Channels中勾选节点连接。  
+请特别阅读ReadMe Important的内容。
 把在内网穿透开放的本地端口先输入到HOME中！！！  
 把在内网穿透开放的本地端口先输入到HOME中！！！  
 把在内网穿透开放的本地端口先输入到HOME中！！！ 
