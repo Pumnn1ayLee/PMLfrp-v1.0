@@ -11,5 +11,6 @@
 :blush:想说的话：整体开发时间比较短，仍然仅目前发布v1.0，未来是否更新随缘，用的自己的服务器，喜欢的点个star可以莫:kissing_closed_eyes:
 
 
-感谢:https://github.com/fatedier/frp  
+感谢:https://github.com/Ennuyeux233  
+https://github.com/fatedier/frp  
     
