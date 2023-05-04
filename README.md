@@ -1,6 +1,6 @@
 # PMLfrp-v1.0  
 ### 版本更新：PMLfrp-v1.2.0已更新！！！ [PMLfrp-v1.2.0](https://github.com/Pumnn1ayLee/PMLfrp-v1.2.0)
-#### PMLfrp是一个对frp的二次开发软件，旨在更加轻便化的完成内网穿透以及对mc玩家联机的梦想。  
+#### PMLfrp是一个基于Go和fyne框架的对frp的二次开发软件，旨在更加轻便化的完成内网穿透以及对mc玩家联机的梦想。  
 ##### 安装教程
 `git clone https://github.com/Pumnn1ayLee/PMLfrp-v1.0.git`  
 ##### 使用教程
