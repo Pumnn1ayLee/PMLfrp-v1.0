@@ -1,6 +1,6 @@
 # PMLfrp-v1.0  
 ### 版本更新：PMLfrp-v1.2.0已更新！！！ [PMLfrp-v1.2.0](https://github.com/Pumnn1ayLee/PMLfrp-v1.2.0)  
-###           PMLfrp-v2.1.1已更新！！！ [PMLfrp-v2.1.1](https://github.com/Pumnn1ayLee/PMLfrp-v2.1.1)  
+###           PMLfrp-v2.1.0已更新！！！ [PMLfrp-v2.1.0](https://github.com/Pumnn1ayLee/PMLfrp-v2.1.0)  
 ###           PMLfrp-v2.2.0已更新！！！ [PMLfrp-v2.2.0](https://github.com/Pumnn1ayLee/PMLfrp-v2.2.0)  
 #### PMLfrp是一个基于Go和fyne框架的对frp的二次开发软件，旨在更加轻便化的完成内网穿透。  
 ##### 安装教程
